@@ -1,5 +1,4 @@
-### Hi there 👋
-
+im too lazy to make anything ok
 <!--
 **ZetkaTV/ZetkaTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
